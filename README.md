@@ -1,3 +1,12 @@
+TO DO LİST
+-------------------------
+ToDoList is a to-do list application developed using React Native. Users can add, delete, and mark tasks as completed in this application.
+
+Description
+ToDoList is a simple and user-friendly to-do list application. Users can enter tasks by text input and view the added tasks in the list. They can mark tasks as completed or delete them when needed.
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -78,3 +87,9 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 # React-Nativev-TODO
+
+#Screenshots
+
+
+https://github.com/akgullberk/React-Native-TODO/assets/108866525/82a2e259-f6c9-4a46-9aee-ba89586bb7a7
+
